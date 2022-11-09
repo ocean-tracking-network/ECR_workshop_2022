@@ -1,4 +1,4 @@
-# ERC_workshop_2022
+# ECR_workshop_2022
 actel example for the OTN symposium 2022 data management workshop
 
 This repository contains an example dataset for actel. It is intended to be run using the residency() function. The dataset contains intentional mistakes that will trigger actel's failsafes.

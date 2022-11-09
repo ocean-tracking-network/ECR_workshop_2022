@@ -1,0 +1,10 @@
+Station.name,Array,Section,Type
+W1,W,W,Hydrophone
+W2,W,W,Hydrophone
+W3,W,W,Hydrophone
+W4,W,W,Hydrophone
+E1,E,E,Hydrophone
+E2,E,E,Hydrophone
+E3,E,E,Hydrophone
+E4,E,E,Hydrophone
+Middle,W|E,,Release
